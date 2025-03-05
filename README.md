@@ -39,7 +39,7 @@ This project is a Spotify analysis dashboard created using Power BI. The dashboa
   - Track difference: **-130K** (Indicates a significant drop in track plays compared to the previous period)
   - Average minutes played per track: **2.14 minutes**
 - **Listening Patterns**:
-  - **Friday** has the highest track plays (~26K), followed by **Wednesday (~23K)**.
+  - **Friday** has the highest track plays (26K), followed by **Wednesday (23K)**.
   - **Saturday and Sunday** have lower track plays compared to weekdays.
   - Tracks played increase steadily from January to a peak in **August and September**, then decline towards December.
 - **Platform Usage**:
